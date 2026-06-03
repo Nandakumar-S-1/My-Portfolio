@@ -1,0 +1,27 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hexagon background -->
+  <path d="M32 4L59 19V45L32 60L5 45V19L32 4Z"
+    fill="url(#bg)"
+    stroke="rgba(108,99,255,0.5)"
+    stroke-width="1.5"/>
+  <!-- N -->
+  <text x="10" y="43"
+    font-family="Inter, Arial, sans-serif"
+    font-weight="700"
+    font-size="26"
+    fill="white"
+    letter-spacing="-1">N</text>
+  <!-- S in accent color -->
+  <text x="35" y="43"
+    font-family="Inter, Arial, sans-serif"
+    font-weight="700"
+    font-size="26"
+    fill="#a78bfa"
+    letter-spacing="-1">S</text>
+  <defs>
+    <linearGradient id="bg" x1="5" y1="4" x2="59" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#0f0f1a"/>
+    </linearGradient>
+  </defs>
+</svg>
