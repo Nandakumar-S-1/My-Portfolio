@@ -12,13 +12,13 @@ const Projects = () => {
             tech: ['TypeScript', 'Express', 'PostgreSQL', 'Prisma', 'Redis', 'JWT'],
             link: 'https://github.com/Nandakumar-S-1/RentEase-Server',
         },
-        {
-            number: '02',
-            title: 'RentEase — Frontend',
-            description: 'React client for the RentEase rental platform. Handles property listings, booking flows and user dashboards with type-safe state management.',
-            tech: ['React', 'TypeScript', 'Redux', 'Vite'],
-            link: 'https://github.com/Nandakumar-S-1/RentEase-Client',
-        },
+        // {
+        //     number: '02',
+        //     title: 'RentEase — Frontend',
+        //     description: 'React client for the RentEase rental platform. Handles property listings, booking flows and user dashboards with type-safe state management.',
+        //     tech: ['React', 'TypeScript', 'Redux', 'Vite'],
+        //     link: 'https://github.com/Nandakumar-S-1/RentEase-Client',
+        // },
         {
             number: '03',
             title: 'CyberCrate',
